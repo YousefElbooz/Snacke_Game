@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Game Over';
+    src: url('GameOver-Regular.woff2') format('woff2'),
+        url('GameOver-Regular.woff') format('woff'),
+        url('GameOver-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
